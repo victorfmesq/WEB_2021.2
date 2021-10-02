@@ -1,6 +1,6 @@
 # Atividade 1
 
-Component JoaoVictor.jsx -> src/component/JoaoVictor
+Componente JoaoVictor.jsx -> ### `npm start` src/component/JoaoVictor
 
 ## Available Scripts
 
