@@ -1,7 +1,10 @@
+import React from "react";
 import ReactDOM from "react-dom";
-import JoaoVictor from "./components/JoaoVictor";
+import App from "./App";
 
 const root = document.getElementById('root');
-ReactDOM.render(<JoaoVictor/>, root)
 
-// index.html -> index.js -> index.jsx
+ReactDOM.render(<App/>,root);
+
+
+// index.html -> index.js -> componente.jsx
