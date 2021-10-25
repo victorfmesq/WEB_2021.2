@@ -19,3 +19,8 @@ Componentes:
  
 Componentes:
  - Arena.jsx ->  `src/component/atividade_2/questao_4/Arena`
+
+# Atividade 3
+
+Componentes:
+ - Cidades.jsx -> `src/component/atividade_3/Cidades`
